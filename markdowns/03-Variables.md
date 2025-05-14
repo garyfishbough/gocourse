@@ -1,3 +1,6 @@
+## 03-Variables
+
+```go
 package main
 
 import "fmt"
@@ -6,12 +9,12 @@ import "fmt"
 var middleName = "Cane"
 
 func main() {
-	//var age int
-	//var name string = "John"
-	//var name1 = "Jane"
-	//
-	//count := 10
-	//lastName := "Smith"
+	var age int
+	var name string = "John"
+	var name1 = "Jane"
+
+	count := 10
+	lastName := "Smith"
 
 	middleName := "Mayor"
 	fmt.Println(middleName)
@@ -31,3 +34,5 @@ func printname() {
 	firstName := "Michael"
 	fmt.Println(firstName)
 }
+
+```

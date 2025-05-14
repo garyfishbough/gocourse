@@ -1,3 +1,6 @@
+## 08-For Loop as While
+
+```go
 package main
 
 import "fmt"
@@ -26,3 +29,4 @@ func main() {
 	}
 
 }
+```
