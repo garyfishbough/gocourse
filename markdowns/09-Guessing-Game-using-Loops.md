@@ -1,4 +1,4 @@
-## 10-Guessing Game using Loops
+## 09-Guessing Game using Loops
 
 ```go
 package main

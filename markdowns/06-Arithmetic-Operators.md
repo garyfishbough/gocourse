@@ -1,4 +1,4 @@
-## 07-Arithmetic Operators
+## 06-Arithmetic Operators
 
 ```go
 package main
