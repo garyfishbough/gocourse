@@ -38,6 +38,12 @@ func main() {
 		fmt.Println("Index:", i, "Value:", numbers[i])
 	}
 
+	
+	
+	
+	
+	
+	
 	// using range to iterate
 	for i, v := range fruits {
 		fmt.Println("Index:", i, "Value:", v)
